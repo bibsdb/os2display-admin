@@ -38,6 +38,7 @@ class AppKernel extends Kernel
             new Os2Display\CampaignBundle\Os2DisplayCampaignBundle(),
             new Os2Display\ScreenBundle\Os2DisplayScreenBundle(),
             new Os2Display\YoutubeBundle\Os2DisplayYoutubeBundle(),
+            new Bibsdb\CitationPortraitBundle\BibsdbCitationPortraitBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test', 'acceptance'], true)) {
