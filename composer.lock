@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d0462ccb8e2ff708cec32eb7f3e59424",
+    "content-hash": "3640cdcbe89df402a35bdbbcfc0bd6f2",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -49,6 +49,30 @@
                 "transliterator"
             ],
             "time": "2017-04-04T11:38:05+00:00"
+        },
+        {
+            "name": "bibsdb/citation-portrait-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bibsdb/citation-portrait-bundle.git",
+                "reference": "d884b0eaeaad3b827d65ebefd14e99e54d88f84a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bibsdb/citation-portrait-bundle/zipball/d884b0eaeaad3b827d65ebefd14e99e54d88f84a",
+                "reference": "d884b0eaeaad3b827d65ebefd14e99e54d88f84a",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Bibsdb\\CitationPortraitBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Bibsdb citation-portrait template.",
+            "time": "2019-05-28T12:18:59+00:00"
         },
         {
             "name": "cocur/slugify",
@@ -6080,7 +6104,9 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "bibsdb/citation-portrait-bundle": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
