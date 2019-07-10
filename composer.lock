@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "da7b841316302e2807d1736dc8189617",
+    "content-hash": "d0462ccb8e2ff708cec32eb7f3e59424",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -4297,22 +4297,22 @@
         },
         {
             "name": "sonata-project/media-bundle",
-            "version": "3.20.1",
+            "version": "3.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sonata-project/SonataMediaBundle.git",
-                "reference": "3f236ed8d51754f8e71afc8216ea25149996a6a0"
+                "reference": "fdae9b6889eec8c63b69b55b8ec11f6bcb485e26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sonata-project/SonataMediaBundle/zipball/3f236ed8d51754f8e71afc8216ea25149996a6a0",
-                "reference": "3f236ed8d51754f8e71afc8216ea25149996a6a0",
+                "url": "https://api.github.com/repos/sonata-project/SonataMediaBundle/zipball/fdae9b6889eec8c63b69b55b8ec11f6bcb485e26",
+                "reference": "fdae9b6889eec8c63b69b55b8ec11f6bcb485e26",
                 "shasum": ""
             },
             "require": {
                 "guzzlehttp/psr7": "^1.0",
                 "imagine/imagine": "^0.6 || ^0.7",
-                "jms/serializer-bundle": "^1.0 || ^2.0 || ^3.0",
+                "jms/serializer-bundle": "^1.0 || ^2.0",
                 "knplabs/gaufrette": "^0.8",
                 "kriswallsmith/buzz": "^0.15 || ^0.16",
                 "php": "^7.1",
@@ -4367,7 +4367,7 @@
                 "sonata-project/formatter-bundle": "^3.4 || ^4.0",
                 "sonata-project/notification-bundle": "^3.3",
                 "sonata-project/seo-bundle": "^2.5",
-                "symfony/phpunit-bridge": "^4.3",
+                "symfony/phpunit-bridge": "^4.2",
                 "symfony/security-csrf": "^2.8 || ^3.2 || ^4.0"
             },
             "suggest": {
@@ -4418,7 +4418,7 @@
                 "vimeo",
                 "youtube"
             ],
-            "time": "2019-06-13T20:10:24+00:00"
+            "time": "2019-01-21T18:38:36+00:00"
         },
         {
             "name": "stof/doctrine-extensions-bundle",
