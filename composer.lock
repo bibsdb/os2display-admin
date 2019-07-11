@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7dbcd9ef9cf9406dd00cd29b1be34175",
+    "content-hash": "d4e6031dc15deca5b19c6236dfd260cb",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -97,6 +97,30 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb info-portrait template.",
             "time": "2019-07-11T07:35:38+00:00"
+        },
+        {
+            "name": "bibsdb/sonderborg-calendar-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bibsdb/sonderborg-calendar-bundle.git",
+                "reference": "09b23daa983c038c1caa3b6acdfbeeabac27f779"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/09b23daa983c038c1caa3b6acdfbeeabac27f779",
+                "reference": "09b23daa983c038c1caa3b6acdfbeeabac27f779",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Bibsdb\\SonderborgCalendarBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Bibsdb sonderborg-calendar template.",
+            "time": "2019-07-11T11:36:52+00:00"
         },
         {
             "name": "cocur/slugify",
@@ -6135,7 +6159,8 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "bibsdb/citation-portrait-bundle": 20,
-        "bibsdb/info-portrait-bundle": 20
+        "bibsdb/info-portrait-bundle": 20,
+        "bibsdb/sonderborg-calendar-bundle": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
