@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3640cdcbe89df402a35bdbbcfc0bd6f2",
+    "content-hash": "7dbcd9ef9cf9406dd00cd29b1be34175",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -73,6 +73,30 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb citation-portrait template.",
             "time": "2019-05-28T12:18:59+00:00"
+        },
+        {
+            "name": "bibsdb/info-portrait-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bibsdb/info-portrait-bundle.git",
+                "reference": "2cecaa6def2ea95a946f78ec76e5142286ee97c8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bibsdb/info-portrait-bundle/zipball/2cecaa6def2ea95a946f78ec76e5142286ee97c8",
+                "reference": "2cecaa6def2ea95a946f78ec76e5142286ee97c8",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Bibsdb\\InfoPortraitBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Bibsdb info-portrait template.",
+            "time": "2019-07-11T07:35:38+00:00"
         },
         {
             "name": "cocur/slugify",
@@ -3256,6 +3280,11 @@
                 "shasum": ""
             },
             "type": "symfony-bundle",
+            "extra": {
+                "patches_applied": {
+                    "Change orientation of preview in image-only template": "patches/default-template-bundle-vertical-image-only-template.patch"
+                }
+            },
             "autoload": {
                 "psr-4": {
                     "Os2Display\\DefaultTemplateBundle\\": ""
@@ -6105,7 +6134,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "bibsdb/citation-portrait-bundle": 20
+        "bibsdb/citation-portrait-bundle": 20,
+        "bibsdb/info-portrait-bundle": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

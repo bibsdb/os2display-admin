@@ -22,6 +22,7 @@
     "require": {
         "php": ">=7.2",
         "bibsdb/citation-portrait-bundle": "dev-master",
+        "bibsdb/info-portrait-bundle": "dev-master",
         "cweagans/composer-patches": "~1.0",
         "os2display/admin-bundle": "~2.0",
         "os2display/campaign-bundle": "~2.0",
