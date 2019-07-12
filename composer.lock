@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d4e6031dc15deca5b19c6236dfd260cb",
+    "content-hash": "d6defae385eaeb40055c2e0dcdfc27b1",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -97,6 +97,30 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb info-portrait template.",
             "time": "2019-07-11T07:35:38+00:00"
+        },
+        {
+            "name": "bibsdb/portrait-portrait-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bibsdb/portrait-portrait-bundle.git",
+                "reference": "5d791c5d46f9b6d767581bdaffa03dd9abca0553"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bibsdb/portrait-portrait-bundle/zipball/5d791c5d46f9b6d767581bdaffa03dd9abca0553",
+                "reference": "5d791c5d46f9b6d767581bdaffa03dd9abca0553",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Bibsdb\\PortraitPortraitBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Bibsdb portrait-portrait template.",
+            "time": "2019-07-11T12:05:03+00:00"
         },
         {
             "name": "bibsdb/sonderborg-calendar-bundle",
@@ -6160,6 +6184,7 @@
     "stability-flags": {
         "bibsdb/citation-portrait-bundle": 20,
         "bibsdb/info-portrait-bundle": 20,
+        "bibsdb/portrait-portrait-bundle": 20,
         "bibsdb/sonderborg-calendar-bundle": 20
     },
     "prefer-stable": false,
