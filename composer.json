@@ -74,8 +74,11 @@
           "os2display/admin-bundle": {
             "Switch to supporting a separate configuration for the public search hostname": "patches/admin-bundle-public-search.patch"
           },
-            "os2display/default-template-bundle": {
+          "os2display/default-template-bundle": {
             "Change orientation of preview in image-only template": "patches/default-template-bundle-vertical-image-only-template.patch"
+          },
+          "os2display/youtube-bundle": {
+            "Change orientation in youtube template": "patches/youtube-bundle-vertical-display.patch"
           }
         }
     }

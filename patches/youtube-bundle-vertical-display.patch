@@ -1,0 +1,21 @@
+diff --git a/Resources/public/templates/youtube/slides/youtube/youtube.json b/Resources/public/templates/youtube/slides/youtube/youtube.json
+index ac7ab98..4cac992 100644
+--- a/Resources/public/templates/youtube/slides/youtube/youtube.json
++++ b/Resources/public/templates/youtube/slides/youtube/youtube.json
+@@ -10,13 +10,13 @@
+     "css": "youtube.css",
+     "js": "bundles/os2displayyoutube/templates/youtube/slides/youtube/youtube.js"
+   },
+-  "orientation": "landscape",
++  "orientation": "portrait",
+   "slide_type": "base",
+   "media_type": "image",
+   "script_id": "youtube",
+   "ideal_dimensions": {
+-    "width": "1920",
+-    "height": "1080"
++    "width": "1080",
++    "height": "1920"
+   },
+   "empty_options": {
+     "sound": true,
