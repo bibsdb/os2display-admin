@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d6defae385eaeb40055c2e0dcdfc27b1",
+    "content-hash": "0b973c7e31a7c626ec5a1c4cf7ebf400",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/citation-portrait-bundle.git",
-                "reference": "19229009909b1ae21593aa07a3c2cc7ec56f8e95"
+                "reference": "d2792cdb0edb6c402ab72217669e5c423b5caa6c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/citation-portrait-bundle/zipball/19229009909b1ae21593aa07a3c2cc7ec56f8e95",
-                "reference": "19229009909b1ae21593aa07a3c2cc7ec56f8e95",
+                "url": "https://api.github.com/repos/bibsdb/citation-portrait-bundle/zipball/d2792cdb0edb6c402ab72217669e5c423b5caa6c",
+                "reference": "d2792cdb0edb6c402ab72217669e5c423b5caa6c",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -72,7 +72,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb citation-portrait template.",
-            "time": "2019-07-12T11:32:21+00:00"
+            "time": "2019-08-08T09:12:52+00:00"
         },
         {
             "name": "bibsdb/info-portrait-bundle",
@@ -80,12 +80,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/info-portrait-bundle.git",
-                "reference": "2cecaa6def2ea95a946f78ec76e5142286ee97c8"
+                "reference": "d60de55c377bcd2744e0739182761424d72fd9fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/info-portrait-bundle/zipball/2cecaa6def2ea95a946f78ec76e5142286ee97c8",
-                "reference": "2cecaa6def2ea95a946f78ec76e5142286ee97c8",
+                "url": "https://api.github.com/repos/bibsdb/info-portrait-bundle/zipball/d60de55c377bcd2744e0739182761424d72fd9fe",
+                "reference": "d60de55c377bcd2744e0739182761424d72fd9fe",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -96,7 +96,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb info-portrait template.",
-            "time": "2019-07-11T07:35:38+00:00"
+            "time": "2019-08-08T09:01:44+00:00"
         },
         {
             "name": "bibsdb/portrait-portrait-bundle",
@@ -104,12 +104,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/portrait-portrait-bundle.git",
-                "reference": "e2ceebd5589ee2fdc238caac7bf0c480520dc68c"
+                "reference": "dc0a7ef6b538cf24041c3148d84aabc8283490a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/portrait-portrait-bundle/zipball/e2ceebd5589ee2fdc238caac7bf0c480520dc68c",
-                "reference": "e2ceebd5589ee2fdc238caac7bf0c480520dc68c",
+                "url": "https://api.github.com/repos/bibsdb/portrait-portrait-bundle/zipball/dc0a7ef6b538cf24041c3148d84aabc8283490a2",
+                "reference": "dc0a7ef6b538cf24041c3148d84aabc8283490a2",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -120,7 +120,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb portrait-portrait template.",
-            "time": "2019-07-12T12:17:54+00:00"
+            "time": "2019-08-08T11:24:55+00:00"
         },
         {
             "name": "bibsdb/sonderborg-calendar-bundle",
@@ -128,12 +128,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/sonderborg-calendar-bundle.git",
-                "reference": "09b23daa983c038c1caa3b6acdfbeeabac27f779"
+                "reference": "6a081312ee3c0f99f327d24a1e12fc959edc63d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/09b23daa983c038c1caa3b6acdfbeeabac27f779",
-                "reference": "09b23daa983c038c1caa3b6acdfbeeabac27f779",
+                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/6a081312ee3c0f99f327d24a1e12fc959edc63d7",
+                "reference": "6a081312ee3c0f99f327d24a1e12fc959edc63d7",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -144,7 +144,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb sonderborg-calendar template.",
-            "time": "2019-07-11T11:36:52+00:00"
+            "time": "2019-08-08T08:33:47+00:00"
         },
         {
             "name": "cocur/slugify",
@@ -3400,6 +3400,30 @@
             "time": "2019-05-20T11:18:14+00:00"
         },
         {
+            "name": "os2display/vimeo-bundle",
+            "version": "2.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/os2display/vimeo-bundle.git",
+                "reference": "f982941dcc82d9dbfb8e5c44aed209fd033626dc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/os2display/vimeo-bundle/zipball/f982941dcc82d9dbfb8e5c44aed209fd033626dc",
+                "reference": "f982941dcc82d9dbfb8e5c44aed209fd033626dc",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Os2Display\\VimeoBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Os2Display vimeo template.",
+            "time": "2019-05-15T13:16:30+00:00"
+        },
+        {
             "name": "os2display/youtube-bundle",
             "version": "2.0.1",
             "source": {
@@ -3414,6 +3438,11 @@
                 "shasum": ""
             },
             "type": "symfony-bundle",
+            "extra": {
+                "patches_applied": {
+                    "Change orientation in youtube template": "patches/youtube-bundle-vertical-display.patch"
+                }
+            },
             "autoload": {
                 "psr-4": {
                     "Os2Display\\YoutubeBundle\\": ""
@@ -5892,19 +5921,19 @@
             "authors": [
                 {
                     "name": "Fabien Potencier",
+                    "role": "Lead Developer",
                     "email": "fabien@symfony.com",
-                    "homepage": "http://fabien.potencier.org",
-                    "role": "Lead Developer"
+                    "homepage": "http://fabien.potencier.org"
                 },
                 {
                     "name": "Armin Ronacher",
-                    "email": "armin.ronacher@active-4.com",
-                    "role": "Project Founder"
+                    "role": "Project Founder",
+                    "email": "armin.ronacher@active-4.com"
                 },
                 {
                     "name": "Twig Team",
-                    "homepage": "https://twig.symfony.com/contributors",
-                    "role": "Contributors"
+                    "role": "Contributors",
+                    "homepage": "https://twig.symfony.com/contributors"
                 }
             ],
             "description": "Twig, the flexible, fast, and secure template language for PHP",
