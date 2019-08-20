@@ -128,12 +128,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/sonderborg-calendar-bundle.git",
-                "reference": "6a081312ee3c0f99f327d24a1e12fc959edc63d7"
+                "reference": "9a4e2ae3e6d1353a34120b639de8e9cb6c1b6715"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/6a081312ee3c0f99f327d24a1e12fc959edc63d7",
-                "reference": "6a081312ee3c0f99f327d24a1e12fc959edc63d7",
+                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/9a4e2ae3e6d1353a34120b639de8e9cb6c1b6715",
+                "reference": "9a4e2ae3e6d1353a34120b639de8e9cb6c1b6715",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -144,7 +144,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb sonderborg-calendar template.",
-            "time": "2019-08-08T08:33:47+00:00"
+            "time": "2019-08-19T12:42:21+00:00"
         },
         {
             "name": "cocur/slugify",
