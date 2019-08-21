@@ -80,9 +80,6 @@
           },
           "os2display/youtube-bundle": {
             "Change orientation in youtube template": "patches/youtube-bundle-vertical-display.patch"
-          },
-          "os2display/screen-bundle": {
-            "Import into screen-bundle necessary js for sonderborg-calendar-template": "patches/screen-bundle-import-sonderborg-calendar-js.patch"
           }
         }
     }
