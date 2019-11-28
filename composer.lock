@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0b973c7e31a7c626ec5a1c4cf7ebf400",
+    "content-hash": "ce50bc790645c87e9defc426216616cb",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -121,6 +121,30 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb portrait-portrait template.",
             "time": "2019-08-08T11:24:55+00:00"
+        },
+        {
+            "name": "bibsdb/projector-screen-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bibsdb/projector-screen-bundle.git",
+                "reference": "09f6c1a21317f9cefce5dc187ad5da718edc98c7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bibsdb/projector-screen-bundle/zipball/09f6c1a21317f9cefce5dc187ad5da718edc98c7",
+                "reference": "09f6c1a21317f9cefce5dc187ad5da718edc98c7",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Bibsdb\\ProjectorScreenBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Bibsdb projector-screen template.",
+            "time": "2019-11-28T08:53:06+00:00"
         },
         {
             "name": "bibsdb/sonderborg-calendar-bundle",
@@ -6216,6 +6240,7 @@
         "bibsdb/citation-portrait-bundle": 20,
         "bibsdb/info-portrait-bundle": 20,
         "bibsdb/portrait-portrait-bundle": 20,
+        "bibsdb/projector-screen-bundle": 20,
         "bibsdb/sonderborg-calendar-bundle": 20
     },
     "prefer-stable": false,
