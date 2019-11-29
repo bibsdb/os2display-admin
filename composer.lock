@@ -128,12 +128,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/projector-screen-bundle.git",
-                "reference": "4f9b7fca13c23b4424097b91612aeb6e9bd1d40a"
+                "reference": "9c21e417318eacbfd8fa5dd8e9963c19ed96b949"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/projector-screen-bundle/zipball/4f9b7fca13c23b4424097b91612aeb6e9bd1d40a",
-                "reference": "4f9b7fca13c23b4424097b91612aeb6e9bd1d40a",
+                "url": "https://api.github.com/repos/bibsdb/projector-screen-bundle/zipball/9c21e417318eacbfd8fa5dd8e9963c19ed96b949",
+                "reference": "9c21e417318eacbfd8fa5dd8e9963c19ed96b949",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -144,7 +144,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb projector-screen template.",
-            "time": "2019-11-28T12:22:29+00:00"
+            "time": "2019-11-29T09:32:49+00:00"
         },
         {
             "name": "bibsdb/sonderborg-calendar-bundle",
