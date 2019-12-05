@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ce50bc790645c87e9defc426216616cb",
+    "content-hash": "ad92b407d30fd7f0e4c9acc0f379eab5",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -152,12 +152,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/sonderborg-calendar-bundle.git",
-                "reference": "9a4e2ae3e6d1353a34120b639de8e9cb6c1b6715"
+                "reference": "0acb2206aac74cdd51717f5064ecc843ebd90f27"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/9a4e2ae3e6d1353a34120b639de8e9cb6c1b6715",
-                "reference": "9a4e2ae3e6d1353a34120b639de8e9cb6c1b6715",
+                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/0acb2206aac74cdd51717f5064ecc843ebd90f27",
+                "reference": "0acb2206aac74cdd51717f5064ecc843ebd90f27",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -168,7 +168,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb sonderborg-calendar template.",
-            "time": "2019-08-19T12:42:21+00:00"
+            "time": "2019-08-30T11:56:40+00:00"
         },
         {
             "name": "cocur/slugify",
