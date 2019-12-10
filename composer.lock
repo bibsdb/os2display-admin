@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/citation-portrait-bundle.git",
-                "reference": "d2792cdb0edb6c402ab72217669e5c423b5caa6c"
+                "reference": "088ec027509105de3757ded25a5640fbff8668c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/citation-portrait-bundle/zipball/d2792cdb0edb6c402ab72217669e5c423b5caa6c",
-                "reference": "d2792cdb0edb6c402ab72217669e5c423b5caa6c",
+                "url": "https://api.github.com/repos/bibsdb/citation-portrait-bundle/zipball/088ec027509105de3757ded25a5640fbff8668c2",
+                "reference": "088ec027509105de3757ded25a5640fbff8668c2",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -72,7 +72,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb citation-portrait template.",
-            "time": "2019-08-08T09:12:52+00:00"
+            "time": "2019-12-06T13:10:33+00:00"
         },
         {
             "name": "bibsdb/info-portrait-bundle",
@@ -80,12 +80,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/info-portrait-bundle.git",
-                "reference": "d60de55c377bcd2744e0739182761424d72fd9fe"
+                "reference": "a8075feb0d85dd993401ebd30c77aa4f027d3373"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/info-portrait-bundle/zipball/d60de55c377bcd2744e0739182761424d72fd9fe",
-                "reference": "d60de55c377bcd2744e0739182761424d72fd9fe",
+                "url": "https://api.github.com/repos/bibsdb/info-portrait-bundle/zipball/a8075feb0d85dd993401ebd30c77aa4f027d3373",
+                "reference": "a8075feb0d85dd993401ebd30c77aa4f027d3373",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -96,7 +96,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb info-portrait template.",
-            "time": "2019-08-08T09:01:44+00:00"
+            "time": "2019-12-06T13:27:20+00:00"
         },
         {
             "name": "bibsdb/portrait-portrait-bundle",
@@ -104,12 +104,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/portrait-portrait-bundle.git",
-                "reference": "dc0a7ef6b538cf24041c3148d84aabc8283490a2"
+                "reference": "0a7c4fec4cafc116e99058765d1c633d43b3d6d1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/portrait-portrait-bundle/zipball/dc0a7ef6b538cf24041c3148d84aabc8283490a2",
-                "reference": "dc0a7ef6b538cf24041c3148d84aabc8283490a2",
+                "url": "https://api.github.com/repos/bibsdb/portrait-portrait-bundle/zipball/0a7c4fec4cafc116e99058765d1c633d43b3d6d1",
+                "reference": "0a7c4fec4cafc116e99058765d1c633d43b3d6d1",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -120,7 +120,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb portrait-portrait template.",
-            "time": "2019-08-08T11:24:55+00:00"
+            "time": "2019-12-06T13:35:40+00:00"
         },
         {
             "name": "bibsdb/projector-screen-bundle",
@@ -128,12 +128,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/projector-screen-bundle.git",
-                "reference": "9c21e417318eacbfd8fa5dd8e9963c19ed96b949"
+                "reference": "4de587d020f8f3973579b17790029fdbfd7011ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/projector-screen-bundle/zipball/9c21e417318eacbfd8fa5dd8e9963c19ed96b949",
-                "reference": "9c21e417318eacbfd8fa5dd8e9963c19ed96b949",
+                "url": "https://api.github.com/repos/bibsdb/projector-screen-bundle/zipball/4de587d020f8f3973579b17790029fdbfd7011ef",
+                "reference": "4de587d020f8f3973579b17790029fdbfd7011ef",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -144,7 +144,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb projector-screen template.",
-            "time": "2019-11-29T09:32:49+00:00"
+            "time": "2019-12-10T09:42:24+00:00"
         },
         {
             "name": "bibsdb/sonderborg-calendar-bundle",
@@ -152,12 +152,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/sonderborg-calendar-bundle.git",
-                "reference": "9fd82347037f9b4d0f66e3c21118b07dccbe6873"
+                "reference": "dc7404350e5eff4872dc4964ea07f633b3e6f240"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/9fd82347037f9b4d0f66e3c21118b07dccbe6873",
-                "reference": "9fd82347037f9b4d0f66e3c21118b07dccbe6873",
+                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/dc7404350e5eff4872dc4964ea07f633b3e6f240",
+                "reference": "dc7404350e5eff4872dc4964ea07f633b3e6f240",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -168,7 +168,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb sonderborg-calendar template.",
-            "time": "2019-12-06T12:05:34+00:00"
+            "time": "2019-12-09T10:16:58+00:00"
         },
         {
             "name": "cocur/slugify",
