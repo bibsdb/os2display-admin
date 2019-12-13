@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/citation-portrait-bundle.git",
-                "reference": "088ec027509105de3757ded25a5640fbff8668c2"
+                "reference": "e457b841d0fc33cc8322abc30e13cfcfde7011f7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/citation-portrait-bundle/zipball/088ec027509105de3757ded25a5640fbff8668c2",
-                "reference": "088ec027509105de3757ded25a5640fbff8668c2",
+                "url": "https://api.github.com/repos/bibsdb/citation-portrait-bundle/zipball/e457b841d0fc33cc8322abc30e13cfcfde7011f7",
+                "reference": "e457b841d0fc33cc8322abc30e13cfcfde7011f7",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -72,7 +72,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb citation-portrait template.",
-            "time": "2019-12-06T13:10:33+00:00"
+            "time": "2019-12-13T11:48:40+00:00"
         },
         {
             "name": "bibsdb/info-portrait-bundle",
@@ -152,12 +152,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/sonderborg-calendar-bundle.git",
-                "reference": "52edd0b3f5c2a586a84ac1f0f157dd036994ab2e"
+                "reference": "a657829218339c64f68c0e78467bfe0ef4154174"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/52edd0b3f5c2a586a84ac1f0f157dd036994ab2e",
-                "reference": "52edd0b3f5c2a586a84ac1f0f157dd036994ab2e",
+                "url": "https://api.github.com/repos/bibsdb/sonderborg-calendar-bundle/zipball/a657829218339c64f68c0e78467bfe0ef4154174",
+                "reference": "a657829218339c64f68c0e78467bfe0ef4154174",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -168,7 +168,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb sonderborg-calendar template.",
-            "time": "2019-12-11T13:50:54+00:00"
+            "time": "2019-12-13T11:17:32+00:00"
         },
         {
             "name": "cocur/slugify",
