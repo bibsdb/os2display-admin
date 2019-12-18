@@ -21,6 +21,7 @@
     },
     "require": {
         "php": ">=7.2",
+        "bibsdb/cafe-smag-bundle": "dev-master",
         "bibsdb/citation-portrait-bundle": "dev-master",
         "bibsdb/info-portrait-bundle": "dev-master",
         "bibsdb/portrait-portrait-bundle": "dev-master",

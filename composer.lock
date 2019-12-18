@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ad92b407d30fd7f0e4c9acc0f379eab5",
+    "content-hash": "3d978d3a9d4b114dd0759bfde6f4e78e",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -49,6 +49,30 @@
                 "transliterator"
             ],
             "time": "2017-04-04T11:38:05+00:00"
+        },
+        {
+            "name": "bibsdb/cafe-smag-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bibsdb/cafe-smag-bundle.git",
+                "reference": "f9769c4a0ffff3f5fede23a0338ecb8264803450"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bibsdb/cafe-smag-bundle/zipball/f9769c4a0ffff3f5fede23a0338ecb8264803450",
+                "reference": "f9769c4a0ffff3f5fede23a0338ecb8264803450",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Bibsdb\\CafeSmagBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Bibsdb cafe-smag template.",
+            "time": "2019-12-18T08:52:41+00:00"
         },
         {
             "name": "bibsdb/citation-portrait-bundle",
@@ -6237,6 +6261,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
+        "bibsdb/cafe-smag-bundle": 20,
         "bibsdb/citation-portrait-bundle": 20,
         "bibsdb/info-portrait-bundle": 20,
         "bibsdb/portrait-portrait-bundle": 20,
