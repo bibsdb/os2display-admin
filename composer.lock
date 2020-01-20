@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/cafe-smag-bundle.git",
-                "reference": "f9769c4a0ffff3f5fede23a0338ecb8264803450"
+                "reference": "17f10db807989bac2a070f1e4a866dbe1b2c61a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/cafe-smag-bundle/zipball/f9769c4a0ffff3f5fede23a0338ecb8264803450",
-                "reference": "f9769c4a0ffff3f5fede23a0338ecb8264803450",
+                "url": "https://api.github.com/repos/bibsdb/cafe-smag-bundle/zipball/17f10db807989bac2a070f1e4a866dbe1b2c61a8",
+                "reference": "17f10db807989bac2a070f1e4a866dbe1b2c61a8",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -72,7 +72,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb cafe-smag template.",
-            "time": "2019-12-18T08:52:41+00:00"
+            "time": "2020-01-20T13:12:32+00:00"
         },
         {
             "name": "bibsdb/citation-portrait-bundle",
@@ -6134,6 +6134,7 @@
                 "code",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-code",
             "time": "2018-08-13T20:36:59+00:00"
         },
         {
@@ -6188,6 +6189,7 @@
                 "events",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-eventmanager",
             "time": "2018-04-25T15:33:34+00:00"
         }
     ],
