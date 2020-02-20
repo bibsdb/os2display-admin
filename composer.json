@@ -78,7 +78,11 @@
           },
           "os2display/youtube-bundle": {
             "Change orientation in youtube template": "patches/youtube-bundle-vertical-display.patch"
+          },
+          "os2display/vimeo-bundle": {
+            "Mute video to enable Chrome playback": "patches/0001-Mute-video.patch"
           }
+
         }
     }
 }

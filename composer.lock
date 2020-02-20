@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3d978d3a9d4b114dd0759bfde6f4e78e",
+    "content-hash": "ec4ae0aa7e278b69bf2e5a2d4ba5f85e",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -3462,6 +3462,11 @@
                 "shasum": ""
             },
             "type": "symfony-bundle",
+            "extra": {
+                "patches_applied": {
+                    "Mute video to enable Chrome playback": "patches/0001-Mute-video.patch"
+                }
+            },
             "autoload": {
                 "psr-4": {
                     "Os2Display\\VimeoBundle\\": ""
@@ -4153,6 +4158,7 @@
                 }
             ],
             "description": "This bundle generates code for you",
+            "abandoned": "symfony/maker-bundle",
             "time": "2017-12-07T15:36:41+00:00"
         },
         {

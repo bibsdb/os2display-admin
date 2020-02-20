@@ -1,0 +1,28 @@
+From 29ac2cb6a61038986e0b8f08f67be45982a4f7dd Mon Sep 17 00:00:00 2001
+From: Agnete Moos <agms@sonderborg.dk>
+Date: Thu, 20 Feb 2020 13:28:47 +0100
+Subject: [PATCH] Mute video
+
+---
+ Resources/public/templates/vimeo/slides/vimeo/vimeo.js | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/Resources/public/templates/vimeo/slides/vimeo/vimeo.js b/Resources/public/templates/vimeo/slides/vimeo/vimeo.js
+index f2a3990..390c8c5 100644
+--- a/Resources/public/templates/vimeo/slides/vimeo/vimeo.js
++++ b/Resources/public/templates/vimeo/slides/vimeo/vimeo.js
+@@ -66,9 +66,9 @@ if (!window.slideFunctions['itk-vimeo']) {
+                         region.nextSlide();
+                     });
+ 
+-                    // Set the volume to max, since background option sets it to 0.
++                    // Set the volume to zero. Chrome only allows playback of muted videos.
+                     if (slide.options.sound) {
+-                        player.setVolume(1);
++                        player.setVolume(0);
+                     }
+ 
+                     // On video end, go to next slide.
+-- 
+2.7.4
+
