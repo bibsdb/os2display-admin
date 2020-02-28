@@ -45,6 +45,8 @@ class AppKernel extends Kernel
             new Bibsdb\PortraitPortraitBundle\BibsdbPortraitPortraitBundle(),
             new Bibsdb\ProjectorScreenBundle\BibsdbProjectorScreenBundle(),
             new Bibsdb\CafeSmagBundle\BibsdbCafeSmagBundle(),
+            new Bibsdb\RepeatingCampaignBundle\BibsdbRepeatingCampaignBundle(),
+
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test', 'acceptance'], true)) {

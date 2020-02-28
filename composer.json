@@ -26,6 +26,7 @@
         "bibsdb/info-portrait-bundle": "dev-master",
         "bibsdb/portrait-portrait-bundle": "dev-master",
         "bibsdb/projector-screen-bundle": "dev-master",
+        "bibsdb/repeating-campaign-bundle": "dev-master",
         "bibsdb/sonderborg-calendar-bundle": "dev-master",
         "cweagans/composer-patches": "~1.0",
         "os2display/admin-bundle": "~2.0",

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ec4ae0aa7e278b69bf2e5a2d4ba5f85e",
+    "content-hash": "3743c9fbfa866f12262850bffbb5697d",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -169,6 +169,30 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Bibsdb projector-screen template.",
             "time": "2019-12-10T09:42:24+00:00"
+        },
+        {
+            "name": "bibsdb/repeating-campaign-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bibsdb/repeating-campaign-bundle.git",
+                "reference": "6367eaec9116c1a5dab4e2a2272b14c13c9bede9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bibsdb/repeating-campaign-bundle/zipball/6367eaec9116c1a5dab4e2a2272b14c13c9bede9",
+                "reference": "6367eaec9116c1a5dab4e2a2272b14c13c9bede9",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Bibsdb\\RepeatingCampaignBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Schedule a OS2display campaign to run every day. Distinguish between workdays and weekends.",
+            "time": "2020-02-28T10:15:20+00:00"
         },
         {
             "name": "bibsdb/sonderborg-calendar-bundle",
@@ -6274,6 +6298,7 @@
         "bibsdb/info-portrait-bundle": 20,
         "bibsdb/portrait-portrait-bundle": 20,
         "bibsdb/projector-screen-bundle": 20,
+        "bibsdb/repeating-campaign-bundle": 20,
         "bibsdb/sonderborg-calendar-bundle": 20
     },
     "prefer-stable": false,
