@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3743c9fbfa866f12262850bffbb5697d",
+    "content-hash": "a97ef1ccfcd13abcdc85280bd2017c9c",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -3313,6 +3313,11 @@
                 "sensio/generator-bundle": "^2.3"
             },
             "type": "symfony-bundle",
+            "extra": {
+                "patches_applied": {
+                    "Campaign scheduled times slide two hours on every save": "patches/two-hour-bug.patch"
+                }
+            },
             "autoload": {
                 "psr-4": {
                     "Os2Display\\CampaignBundle\\": ""

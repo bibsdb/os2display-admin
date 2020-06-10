@@ -30,7 +30,7 @@
         "bibsdb/sonderborg-calendar-bundle": "dev-master",
         "cweagans/composer-patches": "~1.0",
         "os2display/admin-bundle": "~2.0",
-        "os2display/campaign-bundle": "~2.0",
+        "os2display/campaign-bundle": "^2.1",
         "os2display/core-bundle": "~2.0",
         "os2display/default-template-bundle": "~1.1",
         "os2display/media-bundle": "~2.0",
