@@ -82,7 +82,11 @@
           },
           "os2display/vimeo-bundle": {
             "Mute video to enable Chrome playback": "patches/0001-Mute-video.patch"
+          },
+          "os2display/campaign-bundle": {
+            "Campaign scheduled times slide two hours on every save": "patches/two-hour-bug.patch"
           }
+
 
         }
     }

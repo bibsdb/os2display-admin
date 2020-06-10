@@ -1,0 +1,18 @@
+diff --git a/Resources/public/apps/campaignApp/campaign/campaignController.js b/Resources/public/apps/campaignApp/campaign/campaignController.js
+index cea0084..9f8899a 100644
+--- a/Resources/public/apps/campaignApp/campaign/campaignController.js
++++ b/Resources/public/apps/campaignApp/campaign/campaignController.js
+@@ -185,8 +185,11 @@ angular.module('campaignApp').controller('CampaignController', [
+         }
+ 
+         function convertCampaignDatesToUTC (campaign) {
+-            campaign.schedule_from = new Date(campaign.schedule_from * 1000).toISOString();
+-            campaign.schedule_to = new Date(campaign.schedule_to * 1000).toISOString();
++            //AGMS - hack to fix bug that subtracts two hours on every save
++            campaign.schedule_from = campaign.schedule_from + 7200;
++            campaign.schedule_to = campaign.schedule_to + 7200;
++            //campaign.schedule_from = new Date(campaign.schedule_from * 1000).toISOString();
++            //campaign.schedule_to = new Date(campaign.schedule_to * 1000).toISOString();
+ 
+             return campaign;
+         }
