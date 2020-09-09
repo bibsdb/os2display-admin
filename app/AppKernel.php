@@ -46,6 +46,7 @@ class AppKernel extends Kernel
             new Bibsdb\ProjectorScreenBundle\BibsdbProjectorScreenBundle(),
             new Bibsdb\CafeSmagBundle\BibsdbCafeSmagBundle(),
             new Bibsdb\RepeatingCampaignBundle\BibsdbRepeatingCampaignBundle(),
+            new Bibsdb\BookBundle\BibsdbRepeatingCampaignBundle(),
 
         ];
 

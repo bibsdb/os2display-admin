@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a97ef1ccfcd13abcdc85280bd2017c9c",
+    "content-hash": "3969b29eb71fd41a24d3bb77f2ec66f0",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -49,6 +49,30 @@
                 "transliterator"
             ],
             "time": "2017-04-04T11:38:05+00:00"
+        },
+        {
+            "name": "bibsdb/book-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bibsdb/book-bundle.git",
+                "reference": "ad28b6d38a0bac543edb6b5aff02e0d6653a3262"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bibsdb/book-bundle/zipball/ad28b6d38a0bac543edb6b5aff02e0d6653a3262",
+                "reference": "ad28b6d38a0bac543edb6b5aff02e0d6653a3262",
+                "shasum": ""
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Bibsdb\\BookBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Bibsdb book template.",
+            "time": "2020-09-09T07:34:18+00:00"
         },
         {
             "name": "bibsdb/cafe-smag-bundle",
@@ -176,12 +200,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bibsdb/repeating-campaign-bundle.git",
-                "reference": "6367eaec9116c1a5dab4e2a2272b14c13c9bede9"
+                "reference": "275e566547d7df9a21d53a168c7fe996b4e32d12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bibsdb/repeating-campaign-bundle/zipball/6367eaec9116c1a5dab4e2a2272b14c13c9bede9",
-                "reference": "6367eaec9116c1a5dab4e2a2272b14c13c9bede9",
+                "url": "https://api.github.com/repos/bibsdb/repeating-campaign-bundle/zipball/275e566547d7df9a21d53a168c7fe996b4e32d12",
+                "reference": "275e566547d7df9a21d53a168c7fe996b4e32d12",
                 "shasum": ""
             },
             "type": "symfony-bundle",
@@ -192,7 +216,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Schedule a OS2display campaign to run every day. Distinguish between workdays and weekends.",
-            "time": "2020-02-28T10:15:20+00:00"
+            "time": "2020-06-08T12:17:57+00:00"
         },
         {
             "name": "bibsdb/sonderborg-calendar-bundle",
@@ -4060,6 +4084,7 @@
                 "configuration",
                 "distribution"
             ],
+            "abandoned": true,
             "time": "2019-06-18T15:43:58+00:00"
         },
         {
@@ -4320,6 +4345,7 @@
             "keywords": [
                 "sonata"
             ],
+            "abandoned": true,
             "time": "2019-04-24T18:55:18+00:00"
         },
         {
@@ -6298,6 +6324,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
+        "bibsdb/book-bundle": 20,
         "bibsdb/cafe-smag-bundle": 20,
         "bibsdb/citation-portrait-bundle": 20,
         "bibsdb/info-portrait-bundle": 20,
